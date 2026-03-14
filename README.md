@@ -34,12 +34,3 @@ Here is a breakdown of the specific projects contained within each folder:
 ### 🛠️ Utility-Tools
 * **`Shopping List Budget Planner.py`**: A handy application to help users create shopping lists while tracking estimated costs against a set budget.
 * **`To Do List Manager.py`**: A task management script allowing users to create, update, delete, and mark daily tasks as complete.
-
-## Prerequisites
-
-To run these scripts locally, you will need Python installed on your system. 
-
-The projects in the `Data-Analysis` folder will likely require external data science libraries. You can install the most common ones via pip:
-
-```bash
-pip install pandas numpy
